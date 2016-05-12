@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/partybot.iml" filepath="$PROJECT_DIR$/.idea/modules/partybot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/partybot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/partybot_main.iml" group="partybot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/partybot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/partybot_test.iml" group="partybot" />
+    </modules>
+  </component>
+</project>
